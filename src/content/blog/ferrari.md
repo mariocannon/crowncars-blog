@@ -3,7 +3,7 @@ title: The Best Ferrari
 author: Mario 
 pubDatetime: 2022-06-06T04:06:31Z
 slug: ferrari 
-featured: false
+featured: true
 draft: false
 tags:
   - ferrari
