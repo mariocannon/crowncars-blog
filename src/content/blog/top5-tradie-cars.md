@@ -1,0 +1,44 @@
+---
+title: The top 5 tradie work cars
+author: Crown Cars
+pubDatetime: 2024-08-28T06:00:31Z
+slug: top-5-tradie-work-cars
+featured: false
+draft: false
+tags:
+  - Plumber
+  - Electrician
+  - Security insatller
+  - Builder
+description:
+ Looking for the best work car for your trade and home service business?
+ We have compliled the top 5 work hacks for you and your business and why they work.
+---
+# The top 5 tradie work cars
+
+## Check our top picks for your work wagons
+
+### Subaru Outback - Family orientated
+![Subaru Outback](https://s1.cdn.autoevolution.com/images/news/low-mileage-ferrari-f40-valued-at-35-million-engine-underwent-major-servicing-212183_1.jpg)
+
+This work horse of a work car has ample storage a great towing capatiy and plenty of room for the kids.
+
+### Toyota fieler - Hybrid work horse
+![Subaru Outback](https://s1.cdn.autoevolution.com/images/news/low-mileage-ferrari-f40-valued-at-35-million-engine-underwent-major-servicing-212183_1.jpg)
+
+
+### Nissan N200E - Electric Work van
+![Subaru Outback](https://s1.cdn.autoevolution.com/images/news/low-mileage-ferrari-f40-valued-at-35-million-engine-underwent-major-servicing-212183_1.jpg)
+
+
+### Ford Ranger -  The Boss Hack
+![Subaru Outback](https://s1.cdn.autoevolution.com/images/news/low-mileage-ferrari-f40-valued-at-35-million-engine-underwent-major-servicing-212183_1.jpg)
+
+
+### VW Transporter / Multivan - Best use and allround
+![Subaru Outback](https://s1.cdn.autoevolution.com/images/news/low-mileage-ferrari-f40-valued-at-35-million-engine-underwent-major-servicing-212183_1.jpg)
+
+
+
+
+
