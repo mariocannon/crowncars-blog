@@ -1,9 +1,9 @@
 ---
 title: The top 5 tradie work cars
 author: Crown Cars
-pubDatetime: 2024-08-28T06:00:31Z
+pubDatetime: 2024-08-25T06:00:31Z
 slug: top-5-tradie-work-cars
-featured: false
+featured: true
 draft: false
 tags:
   - Plumber
