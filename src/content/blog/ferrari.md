@@ -18,3 +18,5 @@ Users cannot see this post because it is in draft.
 ## Motivation
 ![something] (src\assets\images\f40.jpg)
 rec 1
+
+![A random remote image](https://picsum.photos/1024/768)
