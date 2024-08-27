@@ -12,11 +12,4 @@ description:
   incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel
   fringilla est
 ---
-
-Users cannot see this post because it is in draft.
-
-## Motivation
-![something] (src\assets\images\f40.jpg)
-rec 1
-
-![A random remote image](https://picsum.photos/1024/768)
+![A random remote image](https://s1.cdn.autoevolution.com/images/news/low-mileage-ferrari-f40-valued-at-35-million-engine-underwent-major-servicing-212183_1.jpg)
