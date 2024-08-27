@@ -7,9 +7,14 @@ featured: true
 draft: false
 tags:
   - ferrari
+  - Hypercar
 description:
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel
   fringilla est
 ---
-![A random remote image](https://s1.cdn.autoevolution.com/images/news/low-mileage-ferrari-f40-valued-at-35-million-engine-underwent-major-servicing-212183_1.jpg)
+web hosted
+![The Legendary Ferrari F40](https://s1.cdn.autoevolution.com/images/news/low-mileage-ferrari-f40-valued-at-35-million-engine-underwent-major-servicing-212183_1.jpg)
+
+hosted
+![cars] (@src\assets\images\f40.jpg)
