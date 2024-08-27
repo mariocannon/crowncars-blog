@@ -9,10 +9,11 @@ tags:
   - ferrari
   - Hypercar
 description:
-  
+  The Legendary Ferrari f40 
 ---
 # The Ferrari F40
 
 ## Was this one of the best cars ever created?
+
 ![The Legendary Ferrari F40](https://s1.cdn.autoevolution.com/images/news/low-mileage-ferrari-f40-valued-at-35-million-engine-underwent-major-servicing-212183_1.jpg)
 
