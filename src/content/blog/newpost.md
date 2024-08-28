@@ -1,13 +1,13 @@
 ---
-title: Testing
+title: How to Fit Out Your Work Vehicle properly
 author: Crown Cars
 pubDatetime: 2022-06-06T04:06:31Z
 slug: how-to-fit-out-your-work-vehicle
-featured: false
-draft: true
+featured: true
+draft: false
 tags:
-  - TypeScript
-  - Astro
+  - vehicle
+  - packout
 description:
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel
