@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://crowncars.co.nz", // replace this with your deployed domain
   author: "Crown Cars",
-  desc: "Vehicles for tradies & Business owners",
+  desc: "Drive Your Trade. The Ultimate Guide to Work Vehicle Solutions",
   title: "Crown Cars NZ",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,

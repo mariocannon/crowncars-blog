@@ -30,7 +30,8 @@ Once you have chosen the car make a list of all the equipment and tools you will
 
 The accessibility of the most used tools is crucial to the workflow. Not having to dig around or climb in to get something is priority number 1.
 All tools and materials should be stored separately so they do not damage each other. Nothing worse than your drills damaging an expensive item you are about to install in someone's home.
-There are plenty of storage items available on the market nut our preferred is the Milwaukee
+There are plenty of storage items available on the market but our preferred is the [Milwaukee](https://www.milwaukeetool.co.nz/system/packout/)
+
 This system is removable and modular meaning you can continue to refine the setup and how you use it. The Packout can also be taken on site for easy access when working on a busy construction site.
 
 ## Items you should consider
