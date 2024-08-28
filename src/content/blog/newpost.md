@@ -1,7 +1,7 @@
 ---
 title: How to Fit Out Your Work Vehicle properly
 author: Crown Cars
-pubDatetime: 2022-06-06T04:06:31Z
+pubDatetime: 2024-07-15T14:30:31Z
 slug: how-to-fit-out-your-work-vehicle
 featured: true
 draft: false
