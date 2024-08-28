@@ -32,7 +32,7 @@ This work horse of a work car has ample storage a great towing capatiy and plent
 
 
 ### Ford Ranger -  The Boss Hack
-![Subaru Outback](https://s1.cdn.autoevolution.com/images/news/low-mileage-ferrari-f40-valued-at-35-million-engine-underwent-major-servicing-212183_1.jpg)
+![Ford Ranger](https://images.pexels.com/photos/16058145/pexels-photo-16058145/free-photo-of-ford-ranger-pick-up-truck.jpeg)
 
 
 ### VW Transporter / Multivan - Best use and allround
