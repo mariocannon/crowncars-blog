@@ -2,10 +2,10 @@
 title: How to Fit Out Your Work Vehicle properly A Comprehensive Guide for Tradies
 
 author: Crown Cars
-pubDatetime: 2024-08-29T06:00:00Z
+pubDatetime: 2024-08-24T06:00:00Z
 slug: How-to-fit-our-your-work-vehicle
-featured: false
-draft: true
+featured: true
+draft: false
 tags:
   - Plumber
   - Electrician
